@@ -6,6 +6,10 @@ body {
 	background-color: rgb(157, 34, 66);
 	padding: 0px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-image: url(images/sketch.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: contain;
 }
 a {
 	font-weight: bold;
@@ -45,6 +49,9 @@ header {
 	border-bottom: 2px solid #600;
 	float: left;
 	text-align: center;
+	background-size: cover;
+	background-image: url(images/pencils.jpg);
+	background-repeat: no-repeat;
 }
 div.centered-section {
 	width: 1000px;
