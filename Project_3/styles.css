@@ -3,8 +3,9 @@ body {
 	font-size: 13px;
 	line-height: 21px;
 	color: #000000;
-	background-color: #615F5F;
+	background-color: rgb(157, 34, 66);
 	padding: 0px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 a {
 	font-weight: bold;
