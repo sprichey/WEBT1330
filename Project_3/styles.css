@@ -12,7 +12,10 @@ body {
 	background-size: contain;
 }
 a {
-	font-weight: bold;
+	font-weight: 900;
+	color: #040303;
+	font-size: 20px;
+	text-decoration: none;
 }
 nav {
 	height: 35px;
@@ -37,8 +40,14 @@ nav li {
 nav a {
 	margin: 25px 0px 0px 5px;
 	padding: 10px 20px 5px 40px;
+	background-image: url(images/palette-fade.png);
+	background-repeat: no-repeat;
+	background-position: right center;
 }
 nav a:hover {
+	color: #9D2242;
+	background-image: url(images/palette-full.png);
+	background-position: right center;
 }
 header {
 	height: 290px;
@@ -87,6 +96,8 @@ div.centered-section {
 	padding: 10px 10px 10px 10px;
 }
 .category p a {
+	font-size: 13px;
+	color: #9D2242;
 }
 footer {
 	height: 10px;
