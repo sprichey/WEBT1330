@@ -47,12 +47,14 @@ nav a {
 	background-image: url(images/logo2.jpg);
 	background-repeat: no-repeat;
 	background-position: left center;
+	background-size: contain;
 }
 nav a:hover {
 	color: #62A2ED;
-	background-position: right center;
+	background-position: left center;
 	font-size: small;
 	background-image: url(images/logo2.jpg);
+	background-size: contain;
 }
 header {
 	height: 290px;
