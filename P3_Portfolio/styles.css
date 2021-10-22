@@ -3,7 +3,7 @@ body {
 	font-size: 13px;
 	line-height: 21px;
 	color: #000000;
-	background-color: rgb(157, 34, 66);
+	background-color: rgba(98,162,237,1.00);
 	padding: 0px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	background-image: url(images/sketch.png);
@@ -30,12 +30,15 @@ nav ul {
 	margin: 0px;
 	padding: 0px;
 	float: right;
+	text-align: center;
+	font-size: small;
 }
 nav li {
 	width: auto;
 	display: inline-block;
 	list-style-type: none;
-	text-align: left;
+	text-align: center;
+	font-size: small;
 }
 nav a {
 	margin: 25px 0px 0px 5px;
@@ -43,9 +46,11 @@ nav a {
 	background-image: url(images/palette-fade.png);
 	background-repeat: no-repeat;
 	background-position: right center;
+	font-size: small;
+	text-align: center;
 }
 nav a:hover {
-	color: #9D2242;
+	color: #62A2ED;
 	background-image: url(images/palette-full.png);
 	background-position: right center;
 }
