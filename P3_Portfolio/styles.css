@@ -43,16 +43,16 @@ nav li {
 nav a {
 	margin: 25px 0px 0px 5px;
 	padding: 10px 20px 5px 40px;
-	background-image: url(images/palette-fade.png);
-	background-repeat: no-repeat;
-	background-position: right center;
 	font-size: small;
-	text-align: center;
+	background-image: url(images/logo2.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
 }
 nav a:hover {
 	color: #62A2ED;
-	background-image: url(images/palette-full.png);
 	background-position: right center;
+	font-size: small;
+	background-image: url(images/logo2.jpg);
 }
 header {
 	height: 290px;
