@@ -66,7 +66,7 @@ header {
 	float: left;
 	text-align: center;
 	background-size: cover;
-	background-image: url(images/pencils.jpg);
+	background-image: url("images/moon.jpg");
 	background-repeat: no-repeat;
 }
 div.centered-section {
@@ -75,7 +75,7 @@ div.centered-section {
 	align-items: center;
 }
 .category {
-	width: 300px;
+	width: 250px;
 	min-height: 420px;
 	margin: 20px 0px 10px 25px;
 	float: left;
@@ -93,7 +93,7 @@ div.centered-section {
 	font-size: 20px;
 	}
 .category img {
-	width: 300px;
+	width: 250px;
 	height: 175px;
 	padding: 0px;
 	margin: 0px -30px -10px -10px;
