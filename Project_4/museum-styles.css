@@ -94,3 +94,7 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 }
+a:hover {
+	background-image: url(url);
+	color: #E9A12F;
+}
