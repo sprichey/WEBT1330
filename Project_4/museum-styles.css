@@ -29,6 +29,8 @@ nav {
 	padding-right: 10px;
 	padding-bottom: 10px;
 	float: right;
+	margin-top: 15px;
+	text-align: right;
 }
 #main-copy {
 	width: 500px;
@@ -109,4 +111,20 @@ figcaption {
 	font-size: 14px;
 	line-height: 17px;
 	text-align: right;
+}
+#main-copy figure img {
+	width: 300px;
+}
+#sidebar p {
+	text-align: center;
+	padding-bottom: 5px;
+}
+#sidebar h2 {
+	margin-bottom: 10px;
+	text-align: center;
+	border-bottom: thin solid #54210F;
+}
+nav p {
+	margin-top: 15px;
+	font-size: 18px;
 }
