@@ -19,6 +19,31 @@ body header {
 	margin-right: 50px;
 	float: left;
 }
+#page-content #main-copy p {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	float: left;
+	color: #000000;
+}
+#page-content #sidebar p {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	float: right;
+}
+
+
 #sidebar {
 	width: 290px;
 	height: 200px;
@@ -76,5 +101,9 @@ a {
 	text-decoration: none;
 }
 a:hover{
+	color: #BF1E2D;
 	
+}
+nav a {
+	color: #000000;
 }
