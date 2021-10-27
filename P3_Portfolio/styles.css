@@ -24,6 +24,7 @@ nav {
 	padding: 15px 10px 0px 0px;
 	background-color: #ffffff;
 	border-bottom: 3px solid #600;
+	text-align: center;
 }
 nav ul {
 	width: auto;
@@ -54,6 +55,7 @@ nav a {
 	background-position: left center;
 	background-size: contain;
 	color: #041D7C;
+	text-align: center;
 }
 nav a:hover {
 	color: #62A2ED;
@@ -81,7 +83,7 @@ div.centered-section {
 	align-items: center;
 }
 .category {
-	width: 250px;
+	width: 255px;
 	min-height: 420px;
 	margin: 20px 0px 10px 25px;
 	float: left;
@@ -90,6 +92,7 @@ div.centered-section {
 	border-top-right-radius: 15px;
 	-webkit-box-shadow: 3px 6px 2px 0px rgba(35, 31, 32, 0.75);
 	box-shadow: 3px 6px 2px 0px rgba(35, 31, 32, 0.75);
+	text-align: center;
 }
 .category h2 {
 	margin: 0;
@@ -97,20 +100,27 @@ div.centered-section {
 	font-weight: 900;
 	color: #034580;
 	font-size: 20px;
+	text-align: center;
 	}
 .category img {
 	width: 250px;
 	height: 175px;
 	padding: 0px;
-	margin: 0px -30px -10px -10px;
+	margin-top: 0px;
+	margin-right: -17px;
+	margin-left: -10px;
+	margin-bottom: -10px;
+	float: none;
 }
 .category p {
 	margin: -10px 0px -5px 0px;
 	padding: 10px 10px 10px 10px;
+	text-align: center;
 }
 .category p a {
 	font-size: 13px;
 	color: #9D2242;
+	text-align: center;
 }
 footer {
 	height: 10px;
@@ -133,4 +143,9 @@ footer p {
 	font-weight: 900;
 }
 footer a {
+}
+header h1 img {
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
