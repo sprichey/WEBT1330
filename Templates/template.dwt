@@ -14,14 +14,14 @@
 
   <nav>
 	<ul>
-		<li><a href="../P4_Portfolio/index.html"></a>Home</li>
-	  <li><a href="../P4_Portfolio/development.html"></a>Personal Development program</li>
-	  <li><a href="../P4_Portfolio/tutoring.html"></a>Summer Tutoring program</li>
-	  <li><a href="../P4_Portfolio/adventure.html"></a>Overnight Adventure program</li>
-	  <li><a href="../P4_Portfolio/enrichment.html"></a>Volunteen Enrichment program</li>
-	  <li><a href="../P4_Portfolio/mentoring.html"></a>Career Mentoring program</li>
-	  </ul>
-	</nav>
+		<li><a href="../P4_Portfolio/index.html">Home</a></li>
+	  <li><a href="../P4_Portfolio/development.html">Personal Development program</a></li>
+	  <li><a href="../P4_Portfolio/tutoring.html">Summer Tutoring program</a></li>
+	  <li><a href="../P4_Portfolio/adventure.html">Overnight Adventure program</a></li>
+	  <li><a href="../P4_Portfolio/enrichment.html">Volunteen Enrichment program</a></li>
+	  <li><a href="../P4_Portfolio/mentoring.html">Career Mentoring program</a></li>
+    </ul>
+</nav>
 <header>
 	
 <img src="../P4_Portfolio/images/club-logo.png" width="862" height="371" alt=""/>re</header>
