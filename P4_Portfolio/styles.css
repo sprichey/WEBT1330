@@ -1,109 +1,22 @@
 @charset "utf-8";
-body header {
-	width: auto;
-	height: auto;
-}
-#page-content   {
-	width: 950px;
-	margin-left: auto;
-	margin-right: auto;
-	border-top: 8px solid #000000;
-}
-#main-copy   {
-	width: 500px;
-	padding-top: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	padding-left: 20px;
-	height: 200px;
-	margin-right: 50px;
-	float: left;
-}
-#page-content #main-copy p {
-	margin-top: 10px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-left: 10px;
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	float: left;
-	color: #000000;
-}
-#page-content #sidebar p {
-	margin-top: 10px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-left: 10px;
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	float: right;
-}
-
-
-#sidebar {
-	width: 290px;
-	height: 200px;
-	float: right;
-	background-repeat: no-repeat;
-	background-position: center bottom;
-}
-nav {
-	width: 200px;
-	margin-top: 15px;
-	float: right;
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-}
 header {
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	min-height: 930px;
+	background-color: #FFFFFF;
+	padding: 10px;
+	width: 930px;
+	margin-top: 0px;
 	margin-right: auto;
+	margin-bottom: 0px;
 	margin-left: auto;
 }
-body {
+footer {
 	width: 100%;
-	margin: 0px;
-	text-align: center;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	 
-	background-size: cover;
-	background-attachment: fixed;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-	font-size: 16px;
-	font-weight: 400;
-	line-height: 22px;
-}
-h1 {
-	font-size: 30px
-}
-h2 {
-	margin-top: 30px;
-	margin-bottom: 5px;
-	font-size: 24px;
-}
-p {
+	margin-top: 10px;
 	margin-bottom: 10px;
+	text-align: center;
 }
-a {
-	font-weight: bold;
-	text-decoration: none;
-}
-a:hover{
-	color: #BF1E2D;
-	
-}
-nav a {
-	color: #000000;
+#page-content {
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top: 8px solid #760406;
 }
