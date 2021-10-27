@@ -30,7 +30,7 @@ nav ul {
 	width: auto;
 	margin: 0px;
 	padding: 0px;
-	float: right;
+	float: none;
 	text-align: center;
 	font-size: small;
 }
