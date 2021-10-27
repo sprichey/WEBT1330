@@ -29,6 +29,8 @@ nav {
 	padding-bottom: 10px;
 	padding-left: 10px;
 	float: right;
+	margin-top: 15px;
+	text-align: right;
 }
 #main-copy {
 	width: 500px;
@@ -87,4 +89,29 @@ a {
 	color: #00AEEF;
 	font-weight: bold;
 	text-decoration: none;
+}
+a:hover {
+	color: #BF1E2D;
+}
+figure {
+	width: 300px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	float: right;
+}
+figcaption {
+	font-style: italic;
+	font-size: 14px;
+	line-height: 17px;
+}
+#main-copy figure img {
+	width: 300px;
+}
+#sidebar {
+	text-align: center;
+	padding-bottom: 5px;
+}
+nav p {
+	margin-top: 15px;
+	font-size: 18px;
 }
