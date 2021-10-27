@@ -24,13 +24,13 @@
 </nav>
 <header>
 	
-<img src="../P4_Portfolio/images/club-logo.png" width="862" height="371" alt=""/>re</header>
+<img src="../P4_Portfolio/images/club-logo.png" width="862" height="371" alt=""/></header>
 <div id="page-content"><!-- TemplateBeginEditable name="Page Content" -->
   <section id="main-copy"></section>
 
   <section id="sidebar"></section>
 	<!-- TemplateEndEditable -->
-Content for New div Tag Goes Here</div>
+</div>
 <footer>Site Design</footer>
 </body>
 </html>
