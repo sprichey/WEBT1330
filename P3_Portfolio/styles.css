@@ -85,7 +85,10 @@ div.centered-section {
 .category {
 	width: 255px;
 	min-height: 420px;
-	margin: 20px 0px 10px 25px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 35px;
+	margin-bottom: 20px;
 	float: left;
 	background-color: rgba(255, 255, 255, 0.9);
 	border-bottom-left-radius: 15px;
@@ -148,4 +151,5 @@ header h1 img {
 	text-align: center;
 	padding-top: 0px;
 	padding-bottom: 0px;
+	width: auto;
 }
