@@ -13,6 +13,7 @@ footer {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	text-align: center;
+	float: left;
 }
 #page-content {
 	width: 950px;
@@ -26,6 +27,7 @@ nav {
 	padding-right: 10px;
 	padding-bottom: 10px;
 	padding-left: 10px;
+	float: right;
 }
 #main-copy {
 	width: 500px;
@@ -35,8 +37,10 @@ nav {
 	padding-right: 20px;
 	padding-bottom: 20px;
 	padding-left: 20px;
+	float: left;
 }
 #sidebar {
 	width: 350px;
 	min-height: 200px;
+	float: right;
 }
