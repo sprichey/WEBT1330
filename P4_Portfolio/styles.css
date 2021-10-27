@@ -51,3 +51,15 @@ nav {
 	padding-bottom: 30px;
 	padding-left: 30px;
 }
+body {
+	margin: 0px;
+	padding-top: 0px;
+	background-image: url(images/river.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	color: #00AEEF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 0px;
+}
