@@ -38,9 +38,16 @@ nav {
 	padding-bottom: 20px;
 	padding-left: 20px;
 	float: left;
+	background-color: #FFF6BF;
 }
 #sidebar {
-	width: 350px;
+	width: 290px;
 	min-height: 200px;
 	float: right;
+	background-color: #FFF6BF;
+	background-position: center bottom;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
 }
