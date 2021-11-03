@@ -185,3 +185,23 @@ footer p {
 footer a {
 	color: #999;
 }
+.bkgFaqs {
+	background-image: url(../images/backgrounds/back-faqs.jpg);
+	background-size: cover;
+}
+
+.bkgFood {
+	background-image: url("../images/backgrounds/back-food.jpg");
+	background-size: cover;
+}
+
+.bkgSchedule {
+	background-image: url("../images/backgrounds/back-schedule.jpg");
+	background-size: cover;
+}
+
+.bkgSignup {
+	background-image: url("../images/backgrounds/back-mailing.jpg");
+	background-size: cover;
+}
+

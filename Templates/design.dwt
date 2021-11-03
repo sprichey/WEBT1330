@@ -1,31 +1,49 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
+<meta charset="UTF-8">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>The Getty Foundation</title>
+<title>Desert Voices Food Art and Music Festival | Mailing List</title>
 <!-- TemplateEndEditable -->
-<link href="../Project_4/museum-styles.css" rel="stylesheet" type="text/css">
+<link href="../Voices/css/style.css" rel="stylesheet" type="text/css" />
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
 
 <body>
-    <nav>
-      <p><a href="../Project_4/about.html">About the Getty</a></p>
-      <p><a href="../Project_4/traveling-exhibits.html"> Traveling Exhibits</a></p>
-      <p><a href="../Project_4/permanent-exhibits.html"> Permanent Exhibits </a></p>
-    </nav>
-    <header><img src="../Project_4/images/getty-logo.png" width="448" height="140" alt="The Getty Foundation"/></header>
+<nav>
+  <ul>
+    <li><a href="../Voices/sign-up.html" title="Festival Mailing List" target="_self">Mailing List</a></li>
+    <li><a href="../Voices/faqs.html" title="Festival FAQs" target="_self">Festival FAQs</a></li>
+    <li><a href="../Voices/food.html" title="Festival Food Vendors" target="_self">Food Trucks</a></li>
+    <li><a href="../Voices/schedule.html" title="Festival Schedule" target="_self">Concert Schedule</a></li>
+    <li><a href="../Voices/index.html" title="Festival Home page" target="_self">Home</a></li>
+  </ul>
+</nav>
+	
+	
+<section class="bkgFaqs" id="image-container">
+  <section id="subpage-content">
+	  <!-- TemplateBeginEditable name="MainContent" -->
+    	<p>&nbsp;</p>
+      <!-- TemplateEndEditable --> 
+  </section>
   
+  <section id="subpage-logo"> 
+	  <img src="../Voices/images/festival-logo.png" alt="Desert Voices Food Art and Music Festival" width="430" height="75" /> 
+  </section>
+</section>
 
-<div id="page-content"><!-- TemplateBeginEditable name="Page Content" -->
-  <section id="main-copy"></section>
-  <section id="sidebar"></section><!-- TemplateEndEditable -->
 	
-</div>
-	
-<footer>Site design by Against The Clock, Inc.</footer>
+<section id="bottom-banner">
+  <p class="backgroundcolor2"> June 16-18 </p>
+  <p class="backgroundcolor1"> Palm Desert, CA </p>
+  <p class="backgroundcolor2"> Saguaro Amphitheater </p>
+</section>
 
+<footer>
+  <p>Site design by <a href="http://www.againsttheclock.com">Against The Clock, Inc.</a></p>
+</footer>
+	
 </body>
 </html>

@@ -22,7 +22,7 @@
 </nav>
 	
 	
-<section id="image-container">
+<section class="bkgFaqs" id="image-container">
   <section id="subpage-content">
 	  <!-- TemplateBeginEditable name="MainContent" -->
     	<p>&nbsp;</p>
