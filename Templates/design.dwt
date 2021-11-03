@@ -8,6 +8,7 @@
 <link href="../Voices/css/style.css" rel="stylesheet" type="text/css" />
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<!-- TemplateParam name="class" type="text" value="bkgFaqs" -->
 </head>
 
 <body>
@@ -22,7 +23,7 @@
 </nav>
 	
 	
-<section class="bkgFaqs" id="image-container">
+<section class="@@(_document['class'])@@" id="image-container">
   <section id="subpage-content">
 	  <!-- TemplateBeginEditable name="MainContent" -->
     	<p>&nbsp;</p>

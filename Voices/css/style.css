@@ -205,3 +205,18 @@ footer a {
 	background-size: cover;
 }
 
+.img150px {
+	width: 150px;
+	height: 150px;
+	margin-right: 10px;
+	float: left;
+}
+
+.imgFloatRight{
+	float: right;
+}
+iframe {
+	width: 750px;
+	height: 350px;
+	border-width: 0px;
+}
