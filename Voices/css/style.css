@@ -226,8 +226,14 @@ input {
 	float: left;
 	clear: both;
 }
-.noClear {
+checkbox {
+	float: left;
 	margin-right: 10px;
+}
+
+.noClear {
 	clear: none;
 	float: left;
+	width: 100px;
+	margin-bottom: 10px;
 }
