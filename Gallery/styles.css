@@ -44,6 +44,7 @@ nav ul li {
 	display: block;
 	float: right;
 	border-right: 1px solid #FFF;
+	text-align: center;
 }
 nav ul li a:hover {
 	color: #6B3825
@@ -59,9 +60,10 @@ nav ul li a:hover {
 
 
 .feature-section {
-margin: 15px 0px 15px 0px;
+	margin: 15px 0px 15px 0px;
 	padding: 15px 0px 0px 0px;
 	border-radius: 20px 20px 0px 0px;
+	background-image: url(Gallery/painting-sunset.jpg);	
 }
 
 @media screen and (min-width:768px){
