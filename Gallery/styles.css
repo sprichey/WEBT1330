@@ -27,8 +27,7 @@ body h2 {
 	border-radius: 10px;
 	border-color: #000000;
 }
-.img-fluid {
-}
+
 
 
 
@@ -50,20 +49,14 @@ nav ul li a:hover {
 	color: #6B3825
 }
 
-.img-fluid.container {
-}
-
-.row .row .col-lg-12 {
-	text-align: center;
-}
-
 
 
 .feature-section {
 	margin: 15px 0px 15px 0px;
 	padding: 15px 0px 0px 0px;
 	border-radius: 20px 20px 0px 0px;
-	background-image: url(Gallery/painting-sunset.jpg);	
+	background-image: url(Gallery/painting-sunset.jpg);
+	background-repeat: no-repeat;
 }
 
 @media screen and (min-width:768px){
