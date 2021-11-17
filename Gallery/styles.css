@@ -95,6 +95,9 @@ nav ul li a:hover {
 	margin: 0px;
 	text-align: center
 }
+ul {
+	text-align: left;
+}
 
 h2  {
 	height: 30px;
