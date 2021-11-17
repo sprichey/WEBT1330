@@ -68,7 +68,8 @@ nav ul li a:hover {
 	}
 	
 	p {
-	font-size: 18px
+	font-size: 18px;
+	font-style: italic;
 	}
 	
 	.feature-section p{
