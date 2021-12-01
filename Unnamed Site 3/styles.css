@@ -3,6 +3,7 @@
 	text-align: center;
 }
 .img-fluid {
+	padding-left: 15px;
 }
 
 .container h3 {
@@ -18,4 +19,7 @@
 }
 body {
 	background-color: #DCDCDC;
+}
+.row .col-lg-4 .img-fluid {
+	text-align: center;
 }
