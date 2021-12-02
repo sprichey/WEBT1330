@@ -5,6 +5,10 @@
 .img-fluid {
 	padding-left: 15px;
 }
+.row .col-lg-4 p {
+	text-align: center;
+}
+
 
 .container h3 {
 	text-align: center;
@@ -38,4 +42,15 @@ body h2 {
 }
 .img-fluid.img-thumbnail {
 
+}
+.container .container p {
+	text-align: center;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+	color: #1913A0;
+	text-decoration: underline;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+	color: #1C17A6;
 }
