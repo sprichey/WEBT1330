@@ -8,6 +8,10 @@
 .container p {
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 }
+nav a hover {
+	color: #000000;
+}
+
 
 .row .col-lg-4 .img-fluid {
 	text-indent: 0;
@@ -80,6 +84,14 @@ body h1 {
 .navbar-nav.mr-auto .nav-item.active .nav-link {
 	color: #1C17A6;
 }
+nav-item a:hover {
+	color: #000000;
+}
+nav a:hover {
+	color: #000000;
+}
+
+
 .container .card.col-md-4 .card-body {
 }
 .navbar-nav.mr-auto .nav-item .nav-link {
