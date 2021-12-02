@@ -73,3 +73,6 @@ body h1 {
 }
 .container .card.col-md-4 .card-body {
 }
+.navbar-nav.mr-auto .nav-item .nav-link {
+	color: #1B08D4;
+}
