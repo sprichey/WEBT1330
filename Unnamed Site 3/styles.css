@@ -14,6 +14,7 @@
 	text-align: center;
 }
 .container .img-fluid.img-thumbnail {
+	background-color: #DCDCDC;
 
 }
 
@@ -46,6 +47,10 @@ body h2 {
 .container .container p {
 	text-align: center;
 }
+body h1 {
+	text-align: center;
+}
+
 
 .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
 	color: #1913A0;
