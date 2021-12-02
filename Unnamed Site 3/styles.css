@@ -6,6 +6,7 @@
 
 }
 .row .col-lg-4 .img-fluid {
+	text-indent: 0;
 
 
 }
@@ -14,6 +15,7 @@
 	text-align: left;
 	color: #000000;
 	padding-left: 15px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 }
 
 
