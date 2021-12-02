@@ -5,6 +5,10 @@
 .img-fluid {
 	padding-left: 15px;
 }
+.row .col-lg-4 .img-fluid {
+	padding-left: 15px;
+}
+
 .row .col-lg-4 p {
 	text-align: center;
 }
@@ -31,8 +35,10 @@ body {
 }
 .row .col-lg-4 .img-fluid {
 	text-align: center;
+	padding-left: 15px;
 }
 .container .img-fluid {
+	padding-left: 15px;
 
 }
 .container h1 {
@@ -58,4 +64,6 @@ body h1 {
 }
 .navbar-nav.mr-auto .nav-item.active .nav-link {
 	color: #1C17A6;
+}
+.container .card.col-md-4 .card-body {
 }
