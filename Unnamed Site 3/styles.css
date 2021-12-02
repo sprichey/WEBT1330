@@ -27,6 +27,10 @@
 .row .col-lg-4 h3 {
 
 }
+.row .col-lg-4 {
+	border-style: double;
+}
+
 .container h2 {
 	text-align: center;
 }
